@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2350891714</PublishedFileId>
+  <Name>Arctic_NightFlight_Advanced (v1.0.2) WIP</Name>
+  <Description>You got tasked to destroy a enemy base in the middle of the Arctic ocean
+
+by ApexDevil</Description>
+  <IconFileName>image.png</IconFileName>
+  <Tags>
+    <string>Single Scenarios</string>
+    <string>Any Vehicle</string>
+    <string>F/A-26B</string>
+  </Tags>
+</WorkshopItemInfo>
